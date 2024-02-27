@@ -1,0 +1,29 @@
+{
+    "Barcelona":[
+        
+           {
+              "nome":"Luis Suarez",
+              "foto":"https://us-tuna-sounds-images.voicemod.net/c0c8f0a8-0eb1-4d11-a601-78e41c23266f-1668412136526.jpg",
+              "gol_fatti":602,
+              "periodo":"2003 - 2021",
+              "ruolo":"esterno",
+              "anni":36
+           },
+           {
+              "nome":"Lionel Messi",
+              "foto":"https://hips.hearstapps.com/hmg-prod/images/gettyimages-1146311511.jpg?resize=2048:*",
+              "gol_fatti":474,
+              "periodo":"2014 - 2020",
+              "ruolo":"attacante",
+              "anni":36
+           },
+           {
+              "nome":"Neymar Jr",
+              "foto":"https://jpimg.com.br/uploads/2017/06/1590946406-neymar-foi-expulso-na-partida-entre-barcelona-e-malaga-no-ultimo-dia-8.jpg",
+              "gol_fatti":68,
+              "periodo":"2013 - 2017",
+              "ruolo":"esterno",
+              "anni":31
+           }
+        ]
+    }

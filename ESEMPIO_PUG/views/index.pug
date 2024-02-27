@@ -1,10 +1,18 @@
 doctype html
-html
- head
-  title Ciao Mondo
-  link(rel='stylesheet', href='/css/style.css')
-  meta(name="viewport" content="width=device-width, initial-scale=1")
- body
-  header.header
-   h1 ciao mondo
-  article.container Questo sito parla del mondo
+html(lang="en")
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    link(rel='stylesheet', href='/css/style.css')
+    title Ciao Mondo
+  body
+    header.header
+      h1 Benvenuto alla pagina principale
+    article.container
+      div.person
+        div.person-image(style=`background: url('${barcelona[0].foto}') top center no-repeat; background-size: cover;`)
+        a(href='/barca') | barcelona 
+    
+      div.person
+        div.person-image(style=`background: url('${rMadrid[0].foto}') top center no-repeat; background-size: cover;`)
+        a(href='/madrid') | madrid

@@ -1,0 +1,29 @@
+{
+    "Real Madrid":[
+    
+       {
+          "nome":"Cristiano Ronaldo",
+          "foto":"https://www.corriere.it/methode_image/2018/07/11/Cucina/Foto%20Cucina%20-%20Trattate/CR7%20barca-U3070979310482q7-U3000205434251v6G-593x443@Corriere-Web-Sezioni.PNG",
+          "gol_fatti":450,
+          "periodo":"2009 - 2017",
+          "ruolo":"attacante",
+          "anni":38
+       },
+       {
+          "nome":"Sergio Ramos",
+          "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Russia-Spain_2017_%286%29.jpg/223px-Russia-Spain_2017_%286%29.jpg",
+          "gol_fatti":101,
+          "periodo":"2005 - 2021",
+          "ruolo":"difensore centrale",
+          "anni":37
+       },
+       {
+          "nome":"Luka Modric",
+          "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Luka_Modric_Interview_2021_%28cropped%29.jpg/235px-Luka_Modric_Interview_2021_%28cropped%29.jpg",
+          "gol_fatti":26,
+          "periodo":"2012 - oggi",
+          "ruolo":"centrocampista",
+          "anni":38
+       }
+    ]
+}
